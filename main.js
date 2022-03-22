@@ -10,7 +10,6 @@ document.getElementsByClassName(
 
 // append event to favorite
 const favorite = document.getElementsByClassName("favorite")[0];
-console.log(favorite);
 favorite.onclick = () => {
     document.getElementById("copyToolbarId")?.remove();
     const toolbar = CopyToolbar(tableWrapper);
