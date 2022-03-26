@@ -1,6 +1,6 @@
 function getItemList() {
     const nameReg =
-        /<tr>.*?((<span class="gold">(.*?)<\/span>).*?(<span class="silver">(.*?)<\/span>)|(<span class="silver">(.*?)<\/span>)).*?(<span class="(q[0-9])">(.*?)<\/span>).*?<\/tr>/gm;
+        /<tr.*?>.*?((<span class="gold">(.*?)<\/span>).*?(<span class="silver">(.*?)<\/span>)|(<span class="silver">(.*?)<\/span>)).*?(<span class="(q[0-9])">(.*?)<\/span>).*?<\/tr>/gm;
 
     const text = document.getElementsByClassName(
         "search-result-border search-result-target"
