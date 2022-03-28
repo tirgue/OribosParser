@@ -1,0 +1,1070 @@
+{
+    "Draenor": {
+        "language": "English",
+        "pop": 191000
+    },
+    "Kazzak": {
+        "language": "English",
+        "pop": 186000
+    },
+    "Gordunni": {
+        "language": "Russian",
+        "pop": 170000
+    },
+    "Silvermoon": {
+        "language": "English",
+        "pop": 164000
+    },
+    "Dentarg": {
+        "language": "English",
+        "pop": 162000
+    },
+    "Tarren Mill": {
+        "language": "English",
+        "pop": 162000
+    },
+    "Blackhand": {
+        "language": "German",
+        "pop": 153000
+    },
+    "Echsenkessel": {
+        "language": "German",
+        "pop": 153000
+    },
+    "Mal'Ganis": {
+        "language": "German",
+        "pop": 153000
+    },
+    "Taerar": {
+        "language": "German",
+        "pop": 153000
+    },
+    "Howling Fjord": {
+        "language": "Russian",
+        "pop": 152000
+    },
+    "Twisting Nether": {
+        "language": "English",
+        "pop": 150000
+    },
+    "Hyjal": {
+        "language": "French",
+        "pop": 132000
+    },
+    "Blackmoore": {
+        "language": "German",
+        "pop": 129000
+    },
+    "Lordaeron": {
+        "language": "German",
+        "pop": 129000
+    },
+    "Tichondrius": {
+        "language": "German",
+        "pop": 129000
+    },
+    "Soulflayer": {
+        "language": "Russian",
+        "pop": 119000
+    },
+    "Blackrock": {
+        "language": "German",
+        "pop": 106000
+    },
+    "Ravencrest": {
+        "language": "English",
+        "pop": 102000
+    },
+    "Sanguino": {
+        "language": "Spanish",
+        "pop": 100000
+    },
+    "Shen'dralar": {
+        "language": "Spanish",
+        "pop": 100000
+    },
+    "Uldum": {
+        "language": "Spanish",
+        "pop": 100000
+    },
+    "Zul'jin": {
+        "language": "Spanish",
+        "pop": 100000
+    },
+    "Antonidas": {
+        "language": "German",
+        "pop": 100000
+    },
+    "Ragnaros": {
+        "language": "English",
+        "pop": 100000
+    },
+    "Ambossar": {
+        "language": "German",
+        "pop": 96000
+    },
+    "Kargath": {
+        "language": "German",
+        "pop": 96000
+    },
+    "Thrall": {
+        "language": "German",
+        "pop": 96000
+    },
+    "Argent Dawn": {
+        "language": "English",
+        "pop": 87000
+    },
+    "Stormscale": {
+        "language": "English",
+        "pop": 87000
+    },
+    "Cho'gall": {
+        "language": "French",
+        "pop": 75000
+    },
+    "Dalaran": {
+        "language": "French",
+        "pop": 75000
+    },
+    "Eldre'Thalas": {
+        "language": "French",
+        "pop": 75000
+    },
+    "Marécage de Zangar": {
+        "language": "French",
+        "pop": 75000
+    },
+    "Sinstralis": {
+        "language": "French",
+        "pop": 75000
+    },
+    "Burning Blade": {
+        "language": "English",
+        "pop": 72000
+    },
+    "Drak'thul": {
+        "language": "English",
+        "pop": 72000
+    },
+    "Archimonde": {
+        "language": "French",
+        "pop": 69000
+    },
+    "Al'Akir": {
+        "language": "English",
+        "pop": 65000
+    },
+    "Burning Legion": {
+        "language": "English",
+        "pop": 65000
+    },
+    "Skullcrusher": {
+        "language": "English",
+        "pop": 65000
+    },
+    "Xavius": {
+        "language": "English",
+        "pop": 65000
+    },
+    "Blackscar": {
+        "language": "Russian",
+        "pop": 64000
+    },
+    "Booty Bay": {
+        "language": "Russian",
+        "pop": 64000
+    },
+    "Borean Tundra": {
+        "language": "Russian",
+        "pop": 64000
+    },
+    "Deathweaver": {
+        "language": "Russian",
+        "pop": 64000
+    },
+    "Grom": {
+        "language": "Russian",
+        "pop": 64000
+    },
+    "Thermaplugg": {
+        "language": "Russian",
+        "pop": 64000
+    },
+    "Eredar": {
+        "language": "German",
+        "pop": 60000
+    },
+    "Confrérie du Thorium": {
+        "language": "French",
+        "pop": 60000
+    },
+    "Conseil des Ombres": {
+        "language": "French",
+        "pop": 60000
+    },
+    "Culte de la Rive noire": {
+        "language": "French",
+        "pop": 60000
+    },
+    "Kirin Tor": {
+        "language": "French",
+        "pop": 60000
+    },
+    "La Croisade écarlate": {
+        "language": "French",
+        "pop": 60000
+    },
+    "Les Clairvoyants": {
+        "language": "French",
+        "pop": 60000
+    },
+    "Les Sentinelles": {
+        "language": "French",
+        "pop": 60000
+    },
+    "Doomhammer": {
+        "language": "English",
+        "pop": 56000
+    },
+    "Turalyon": {
+        "language": "English",
+        "pop": 56000
+    },
+    "Ysondre": {
+        "language": "French",
+        "pop": 55000
+    },
+    "Auchindoun": {
+        "language": "English",
+        "pop": 54000
+    },
+    "Dunemaul": {
+        "language": "English",
+        "pop": 54000
+    },
+    "Jaedenar": {
+        "language": "English",
+        "pop": 54000
+    },
+    "Sylvanas": {
+        "language": "English",
+        "pop": 54000
+    },
+    "Outland": {
+        "language": "English",
+        "pop": 53000
+    },
+    "C'Thun": {
+        "language": "Spanish",
+        "pop": 53000
+    },
+    "Dun Modr": {
+        "language": "Spanish",
+        "pop": 53000
+    },
+    "Darkmoon Faire": {
+        "language": "English",
+        "pop": 52000
+    },
+    "Defias Brotherhood": {
+        "language": "English",
+        "pop": 52000
+    },
+    "Earthen Ring": {
+        "language": "English",
+        "pop": 52000
+    },
+    "Ravenholdt": {
+        "language": "English",
+        "pop": 52000
+    },
+    "Scarshield Legion": {
+        "language": "English",
+        "pop": 52000
+    },
+    "Sporeggar": {
+        "language": "English",
+        "pop": 52000
+    },
+    "The Venture Co": {
+        "language": "English",
+        "pop": 52000
+    },
+    "Arathor": {
+        "language": "English",
+        "pop": 49000
+    },
+    "Hellfire": {
+        "language": "English",
+        "pop": 49000
+    },
+    "Kilrogg": {
+        "language": "English",
+        "pop": 49000
+    },
+    "Nagrand": {
+        "language": "English",
+        "pop": 49000
+    },
+    "Runetotem": {
+        "language": "English",
+        "pop": 49000
+    },
+    "Garrosh": {
+        "language": "German",
+        "pop": 47000
+    },
+    "Nozdormu": {
+        "language": "German",
+        "pop": 47000
+    },
+    "Perenolde": {
+        "language": "German",
+        "pop": 47000
+    },
+    "Shattrath": {
+        "language": "German",
+        "pop": 47000
+    },
+    "Teldrassil": {
+        "language": "German",
+        "pop": 47000
+    },
+    "Aggra (Português)": {
+        "language": "English",
+        "pop": 46000
+    },
+    "Frostmane": {
+        "language": "English",
+        "pop": 46000
+    },
+    "Grim Batol": {
+        "language": "English",
+        "pop": 46000
+    },
+    "Der Mithrilorden": {
+        "language": "German",
+        "pop": 45000
+    },
+    "Der Rat von Dalaran": {
+        "language": "German",
+        "pop": 45000
+    },
+    "Die Nachtwache": {
+        "language": "German",
+        "pop": 45000
+    },
+    "Forscherliga": {
+        "language": "German",
+        "pop": 45000
+    },
+    "Todeswache": {
+        "language": "German",
+        "pop": 45000
+    },
+    "Zirkel des Cenarius": {
+        "language": "German",
+        "pop": 45000
+    },
+    "Deepholm": {
+        "language": "Russian",
+        "pop": 42000
+    },
+    "Galakrond": {
+        "language": "Russian",
+        "pop": 42000
+    },
+    "Razuvious": {
+        "language": "Russian",
+        "pop": 42000
+    },
+    "Eversong": {
+        "language": "Russian",
+        "pop": 42000
+    },
+    "Dun Morogh": {
+        "language": "German",
+        "pop": 41000
+    },
+    "Norgannon": {
+        "language": "German",
+        "pop": 41000
+    },
+    "Deathwing": {
+        "language": "English",
+        "pop": 41000
+    },
+    "Dragonblight": {
+        "language": "English",
+        "pop": 41000
+    },
+    "Ghostlands": {
+        "language": "English",
+        "pop": 41000
+    },
+    "Karazhan": {
+        "language": "English",
+        "pop": 41000
+    },
+    "Lightning's Blade": {
+        "language": "English",
+        "pop": 41000
+    },
+    "The Maelstrom": {
+        "language": "English",
+        "pop": 41000
+    },
+    "Aman'thul": {
+        "language": "German",
+        "pop": 37000
+    },
+    "Anub'arak": {
+        "language": "German",
+        "pop": 37000
+    },
+    "Dalvengyr": {
+        "language": "German",
+        "pop": 37000
+    },
+    "Frostmourne": {
+        "language": "German",
+        "pop": 37000
+    },
+    "Nazjatar": {
+        "language": "German",
+        "pop": 37000
+    },
+    "Zuluhed": {
+        "language": "German",
+        "pop": 37000
+    },
+    "Bloodfeather": {
+        "language": "English",
+        "pop": 36000
+    },
+    "Burning Steppes": {
+        "language": "English",
+        "pop": 36000
+    },
+    "Darkspear": {
+        "language": "English",
+        "pop": 36000
+    },
+    "Executus": {
+        "language": "English",
+        "pop": 36000
+    },
+    "Kor'gall": {
+        "language": "English",
+        "pop": 36000
+    },
+    "Saurfang": {
+        "language": "English",
+        "pop": 36000
+    },
+    "Shattered Hand": {
+        "language": "English",
+        "pop": 36000
+    },
+    "Terokkar": {
+        "language": "English",
+        "pop": 36000
+    },
+    "Azjol-Nerub": {
+        "language": "English",
+        "pop": 35000
+    },
+    "Quel'Thalas": {
+        "language": "English",
+        "pop": 35000
+    },
+    "Alexstrasza": {
+        "language": "German",
+        "pop": 35000
+    },
+    "Madmortem": {
+        "language": "German",
+        "pop": 35000
+    },
+    "Nethersturm": {
+        "language": "German",
+        "pop": 35000
+    },
+    "Proudmoore": {
+        "language": "German",
+        "pop": 35000
+    },
+    "Destromath": {
+        "language": "German",
+        "pop": 35000
+    },
+    "Gilneas": {
+        "language": "German",
+        "pop": 35000
+    },
+    "Gorgonnash": {
+        "language": "German",
+        "pop": 35000
+    },
+    "Mannoroth": {
+        "language": "German",
+        "pop": 35000
+    },
+    "Nefarian": {
+        "language": "German",
+        "pop": 35000
+    },
+    "Nera'thor": {
+        "language": "German",
+        "pop": 35000
+    },
+    "Ulduar": {
+        "language": "German",
+        "pop": 35000
+    },
+    "Alleria": {
+        "language": "German",
+        "pop": 35000
+    },
+    "Rexxar": {
+        "language": "German",
+        "pop": 35000
+    },
+    "Arthas": {
+        "language": "German",
+        "pop": 35000
+    },
+    "Blutkessel": {
+        "language": "German",
+        "pop": 35000
+    },
+    "Durotan": {
+        "language": "German",
+        "pop": 35000
+    },
+    "Kel'Thuzad": {
+        "language": "German",
+        "pop": 35000
+    },
+    "Tirion": {
+        "language": "German",
+        "pop": 35000
+    },
+    "Vek'lor": {
+        "language": "German",
+        "pop": 35000
+    },
+    "Wrathbringer": {
+        "language": "German",
+        "pop": 35000
+    },
+    "Khaz Modan": {
+        "language": "French",
+        "pop": 34000
+    },
+    "Pozzo dell'Eternità": {
+        "language": "Italian",
+        "pop": 33000
+    },
+    "Malfurion": {
+        "language": "German",
+        "pop": 33000
+    },
+    "Malygos": {
+        "language": "German",
+        "pop": 33000
+    },
+    "Drek'Thar": {
+        "language": "French",
+        "pop": 32000
+    },
+    "Eitrigg": {
+        "language": "French",
+        "pop": 32000
+    },
+    "Krasus": {
+        "language": "French",
+        "pop": 32000
+    },
+    "Uldaman": {
+        "language": "French",
+        "pop": 32000
+    },
+    "Frostwolf": {
+        "language": "German",
+        "pop": 32000
+    },
+    "Das Konsortium": {
+        "language": "German",
+        "pop": 31000
+    },
+    "Das Syndikat": {
+        "language": "German",
+        "pop": 31000
+    },
+    "Der Abyssische Rat": {
+        "language": "German",
+        "pop": 31000
+    },
+    "Die Arguswacht": {
+        "language": "German",
+        "pop": 31000
+    },
+    "Die Silberne Hand": {
+        "language": "German",
+        "pop": 31000
+    },
+    "Die Todeskrallen": {
+        "language": "German",
+        "pop": 31000
+    },
+    "Die ewige Wacht": {
+        "language": "German",
+        "pop": 31000
+    },
+    "Kult der Verdammten": {
+        "language": "German",
+        "pop": 31000
+    },
+    "Magtheridon": {
+        "language": "English",
+        "pop": 31000
+    },
+    "Goldrinn": {
+        "language": "Russian",
+        "pop": 30000
+    },
+    "Greymane": {
+        "language": "Russian",
+        "pop": 30000
+    },
+    "Lich King": {
+        "language": "Russian",
+        "pop": 30000
+    },
+    "Aerie Peak": {
+        "language": "English",
+        "pop": 30000
+    },
+    "Blade's Edge": {
+        "language": "English",
+        "pop": 30000
+    },
+    "Bronzebeard": {
+        "language": "English",
+        "pop": 30000
+    },
+    "Eonar": {
+        "language": "English",
+        "pop": 30000
+    },
+    "Vek'nilash": {
+        "language": "English",
+        "pop": 30000
+    },
+    "Azshara": {
+        "language": "German",
+        "pop": 30000
+    },
+    "Baelgun": {
+        "language": "German",
+        "pop": 30000
+    },
+    "Krag'jin": {
+        "language": "German",
+        "pop": 30000
+    },
+    "Lothar": {
+        "language": "German",
+        "pop": 30000
+    },
+    "Nemesis": {
+        "language": "Italian",
+        "pop": 30000
+    },
+    "Aegwynn": {
+        "language": "German",
+        "pop": 29000
+    },
+    "Dragonmaw": {
+        "language": "English",
+        "pop": 28000
+    },
+    "Haomarush": {
+        "language": "English",
+        "pop": 28000
+    },
+    "Spinebreaker": {
+        "language": "English",
+        "pop": 28000
+    },
+    "Stormreaver": {
+        "language": "English",
+        "pop": 28000
+    },
+    "Vashj": {
+        "language": "English",
+        "pop": 28000
+    },
+    "Elune": {
+        "language": "French",
+        "pop": 28000
+    },
+    "Varimathras": {
+        "language": "French",
+        "pop": 28000
+    },
+    "Bladefist": {
+        "language": "English",
+        "pop": 27000
+    },
+    "Darksorrow": {
+        "language": "English",
+        "pop": 27000
+    },
+    "Frostwhisper": {
+        "language": "English",
+        "pop": 27000
+    },
+    "Genjuros": {
+        "language": "English",
+        "pop": 27000
+    },
+    "Neptulon": {
+        "language": "English",
+        "pop": 27000
+    },
+    "Zenedar": {
+        "language": "English",
+        "pop": 27000
+    },
+    "Ahn'Qiraj": {
+        "language": "English",
+        "pop": 26000
+    },
+    "Balnazzar": {
+        "language": "English",
+        "pop": 26000
+    },
+    "Boulderfist": {
+        "language": "English",
+        "pop": 26000
+    },
+    "Chromaggus": {
+        "language": "English",
+        "pop": 26000
+    },
+    "Daggerspine": {
+        "language": "English",
+        "pop": 26000
+    },
+    "Laughing Skull": {
+        "language": "English",
+        "pop": 26000
+    },
+    "Shattered Halls": {
+        "language": "English",
+        "pop": 26000
+    },
+    "Sunstrider": {
+        "language": "English",
+        "pop": 26000
+    },
+    "Talnivarr": {
+        "language": "English",
+        "pop": 26000
+    },
+    "Trollbane": {
+        "language": "English",
+        "pop": 26000
+    },
+    "Colinas Pardas": {
+        "language": "Spanish",
+        "pop": 26000
+    },
+    "Los Errantes": {
+        "language": "Spanish",
+        "pop": 26000
+    },
+    "Tyrande": {
+        "language": "Spanish",
+        "pop": 26000
+    },
+    "Fordragon": {
+        "language": "Russian",
+        "pop": 22000
+    },
+    "Exodar": {
+        "language": "Spanish",
+        "pop": 21000
+    },
+    "Minahonda": {
+        "language": "Spanish",
+        "pop": 21000
+    },
+    "Chamber of Aspects": {
+        "language": "English",
+        "pop": 21000
+    },
+    "Thunderhorn": {
+        "language": "English",
+        "pop": 20000
+    },
+    "Wildhammer": {
+        "language": "English",
+        "pop": 20000
+    },
+    "Emerald Dream": {
+        "language": "English",
+        "pop": 20000
+    },
+    "Terenas": {
+        "language": "English",
+        "pop": 20000
+    },
+    "Garona": {
+        "language": "French",
+        "pop": 20000
+    },
+    "Ner'zhul": {
+        "language": "French",
+        "pop": 20000
+    },
+    "Sargeras": {
+        "language": "French",
+        "pop": 20000
+    },
+    "Die Aldor": {
+        "language": "German",
+        "pop": 20000
+    },
+    "Festung der Stürme": {
+        "language": "German",
+        "pop": 20000
+    },
+    "Gul'dan": {
+        "language": "German",
+        "pop": 20000
+    },
+    "Kil'jaeden": {
+        "language": "German",
+        "pop": 20000
+    },
+    "Nathrezim": {
+        "language": "German",
+        "pop": 20000
+    },
+    "Rajaxx": {
+        "language": "German",
+        "pop": 20000
+    },
+    "Anetheron": {
+        "language": "German",
+        "pop": 20000
+    },
+    "Dethecus": {
+        "language": "German",
+        "pop": 19000
+    },
+    "Mug'thol": {
+        "language": "German",
+        "pop": 19000
+    },
+    "Onyxia": {
+        "language": "German",
+        "pop": 19000
+    },
+    "Terrordar": {
+        "language": "German",
+        "pop": 19000
+    },
+    "Theradras": {
+        "language": "German",
+        "pop": 19000
+    },
+    "Aszune": {
+        "language": "English",
+        "pop": 19000
+    },
+    "Shadowsong": {
+        "language": "English",
+        "pop": 19000
+    },
+    "Area 52": {
+        "language": "German",
+        "pop": 19000
+    },
+    "Sen'jin": {
+        "language": "German",
+        "pop": 19000
+    },
+    "Un'Goro": {
+        "language": "German",
+        "pop": 19000
+    },
+    "Ashenvale": {
+        "language": "Russian",
+        "pop": 18000
+    },
+    "Arygos": {
+        "language": "German",
+        "pop": 18000
+    },
+    "Khaz'goroth": {
+        "language": "German",
+        "pop": 18000
+    },
+    "Aggramar": {
+        "language": "English",
+        "pop": 18000
+    },
+    "Hellscream": {
+        "language": "English",
+        "pop": 18000
+    },
+    "Malorne": {
+        "language": "German",
+        "pop": 18000
+    },
+    "Ysera": {
+        "language": "German",
+        "pop": 18000
+    },
+    "Alonsus": {
+        "language": "English",
+        "pop": 17000
+    },
+    "Anachronos": {
+        "language": "English",
+        "pop": 17000
+    },
+    "Kul Tiras": {
+        "language": "English",
+        "pop": 17000
+    },
+    "Azuregos": {
+        "language": "Russian",
+        "pop": 17000
+    },
+    "Arak-arahm": {
+        "language": "French",
+        "pop": 17000
+    },
+    "Kael'thas": {
+        "language": "French",
+        "pop": 17000
+    },
+    "Rashgarroth": {
+        "language": "French",
+        "pop": 17000
+    },
+    "Throk'Feroth": {
+        "language": "French",
+        "pop": 17000
+    },
+    "Moonglade": {
+        "language": "English",
+        "pop": 17000
+    },
+    "Steamwheedle Cartel": {
+        "language": "English",
+        "pop": 17000
+    },
+    "The Sha'tar": {
+        "language": "English",
+        "pop": 17000
+    },
+    "Chants éternels": {
+        "language": "French",
+        "pop": 16000
+    },
+    "Vol'jin": {
+        "language": "French",
+        "pop": 16000
+    },
+    "Agamaggan": {
+        "language": "English",
+        "pop": 15000
+    },
+    "Bloodscalp": {
+        "language": "English",
+        "pop": 15000
+    },
+    "Crushridge": {
+        "language": "English",
+        "pop": 15000
+    },
+    "Emeriss": {
+        "language": "English",
+        "pop": 15000
+    },
+    "Hakkar": {
+        "language": "English",
+        "pop": 15000
+    },
+    "Twilight's Hammer": {
+        "language": "English",
+        "pop": 15000
+    },
+    "Lightbringer": {
+        "language": "English",
+        "pop": 15000
+    },
+    "Mazrigos": {
+        "language": "English",
+        "pop": 15000
+    },
+    "Bloodhoof": {
+        "language": "English",
+        "pop": 15000
+    },
+    "Khadgar": {
+        "language": "English",
+        "pop": 15000
+    },
+    "Azuremyst": {
+        "language": "English",
+        "pop": 15000
+    },
+    "Stormrage": {
+        "language": "English",
+        "pop": 15000
+    },
+    "Bronze Dragonflight": {
+        "language": "English",
+        "pop": 14000
+    },
+    "Nordrassil": {
+        "language": "English",
+        "pop": 14000
+    },
+    "Medivh": {
+        "language": "French",
+        "pop": 13000
+    },
+    "Suramar": {
+        "language": "French",
+        "pop": 13000
+    },
+    "Deathguard": {
+        "language": "Russian",
+        "pop": 13000
+    },
+    "Arathi": {
+        "language": "French",
+        "pop": 13000
+    },
+    "Illidan": {
+        "language": "French",
+        "pop": 13000
+    },
+    "Naxxramas": {
+        "language": "French",
+        "pop": 13000
+    },
+    "Temple noir": {
+        "language": "French",
+        "pop": 13000
+    }
+}
