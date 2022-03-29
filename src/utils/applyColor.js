@@ -8,14 +8,14 @@ function applyColor(table) {
         const color = colors[realm?.language];
         const pop = realm?.pop / 1000;
         if (color) {
-            td.parentElement.style.backgroundColor = color;
             const div = document.createElement("div");
             div.style = `display: inline-block;
             width: 50px;
             text-align: right;
-            padding-right: 15px;`;
+            padding-right: 15px;
+            margin-right: 10px;
+            background-color: ${color}`;
             try {
-                console.log(td);
                 div.innerHTML = `${pop >= 100 ? "" : " "}${pop}k`;
                 td?.prepend(div);
             } catch (e) {}
