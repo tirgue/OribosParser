@@ -1,4 +1,5 @@
 const CopyToolbar = require("./src/Components/CopyToolbar");
+const applyColor = require("./src/utils/applyColor");
 
 // get wrapper
 const tableWrapper = document.getElementsByClassName("search-result")[0];
@@ -15,3 +16,12 @@ favorite.onclick = () => {
     const toolbar = CopyToolbar(tableWrapper);
     tableWrapper.insertBefore(toolbar, tableWrapper.firstChild);
 };
+
+setInterval(() => {
+    try {
+        const table = document.getElementsByClassName("list")[0];
+        applyColor(table);
+    } catch (e) {
+        console.error(e);
+    }
+}, 1000);
