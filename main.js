@@ -17,11 +17,15 @@ favorite.onclick = () => {
     tableWrapper.insertBefore(toolbar, tableWrapper.firstChild);
 };
 
-setInterval(() => {
+const intervalFunction = () => {
     try {
         const table = document.getElementsByClassName("list")[0];
-        applyColor(table);
-    } catch (e) {
-        console.error(e);
-    }
-}, 1000);
+        applyColor(table) > 15 ? clearInterval(interval) : null;
+    } catch (e) {}
+};
+
+let interval;
+document.onclick = () => {
+    clearInterval(interval);
+    interval = setInterval(intervalFunction, 1000);
+};

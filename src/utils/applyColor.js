@@ -2,6 +2,7 @@ const colors = require("../constants/colors.json");
 const realms = require("../constants/realms.json");
 
 function applyColor(table) {
+    let res = 0;
     [...table.getElementsByTagName("td")].forEach((td) => {
         const text = td.textContent;
         const realm = realms[text];
@@ -19,6 +20,7 @@ function applyColor(table) {
                 div.innerHTML = `${pop >= 100 ? "" : " "}${pop}k`;
                 td?.prepend(div);
             } catch (e) {}
+            res += 1;
         }
     });
 }
